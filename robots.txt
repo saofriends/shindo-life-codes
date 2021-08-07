@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://shindo-life-codes.herokuapp.com/host-https-progameguides.com/sitemap_index.xml
+Sitemap: https://shindo-life-codes.herokuapp.com/sitemap/sitemap.xml
